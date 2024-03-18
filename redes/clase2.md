@@ -65,6 +65,10 @@ Una forma común de conectarse a Internet es a través de una red convergente, q
 
 La convergencia de redes se refiere a la capacidad de transportar diferentes tipos de servicios, como datos, voz y video, a través de la misma infraestructura de red. En lugar de tener redes separadas para cada tipo de servicio, una red convergente puede manejar todos estos servicios utilizando las mismas reglas y normas. Esto significa que puedes enviar datos, hacer llamadas de voz y transmitir videos utilizando la misma red. La convergencia de redes permite una mayor eficiencia y flexibilidad al utilizar una única infraestructura para múltiples servicios.
 
+### Tolerancia a fallas
+
+
+
 ### Escalabilidad
 
 La escalabilidad en una red se refiere a su capacidad para crecer y manejar un aumento en la carga de trabajo sin comprometer su rendimiento. Esto permite a la red adaptarse a las necesidades actuales y futuras de una organización, soportando un mayor número de dispositivos y usuarios. La escalabilidad puede ser: 
