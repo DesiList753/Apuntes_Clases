@@ -1,5 +1,3 @@
-# **Introduccion a las finzanzas**
-
 ## **Inicio**
 
 1. ¿Que es lo que es un **Activo**?
