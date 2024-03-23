@@ -67,6 +67,17 @@ La convergencia de redes se refiere a la capacidad de transportar diferentes tip
 
 ### Tolerancia a fallas
 
+Una red siempre debe estar disponible y ser capaz de recuperarse rápidamente de cualquier falla o interrupción. La tolerancia a fallas se refiere a la capacidad de una red para mantener la conectividad y el funcionamiento incluso cuando ocurren problemas, como la caída de un enlace o el fallo de un dispositivo.
+
+Existen varias técnicas y tecnologías que se utilizan para lograr la tolerancia a fallas en una red, como:
+
+- **Redundancia:** consiste en tener componentes o enlaces adicionales que actúen como respaldo en caso de falla. Por ejemplo, se pueden utilizar enlaces redundantes para garantizar que si un enlace se cae, la comunicación pueda continuar a través de otro enlace.
+
+- **Balanceo de carga:** distribuye la carga de trabajo entre múltiples dispositivos o enlaces para evitar la sobrecarga y mejorar el rendimiento. Si un dispositivo o enlace falla, la carga se redistribuye automáticamente a otros dispositivos o enlaces disponibles.
+
+- **Protocolos de enrutamiento dinámico:** permiten que los routers de la red se adapten automáticamente a cambios en la topología de la red y encuentren las rutas más eficientes y disponibles. Esto ayuda a evitar interrupciones en la comunicación en caso de fallas.
+
+La tolerancia a fallas es fundamental para garantizar la disponibilidad y confiabilidad de una red, especialmente en entornos críticos donde la interrupción del servicio puede tener consecuencias graves.
 
 
 ### Escalabilidad

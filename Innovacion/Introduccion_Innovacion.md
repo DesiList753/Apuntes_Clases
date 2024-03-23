@@ -1,7 +1,5 @@
 # Gestion de la Innovación
 
-## Inicio
-
 ### ¿Qué busca la innovación?
 
 La innovación busca encontrar soluciones nuevas y creativas para mejorar procesos, productos o servicios existentes.
@@ -13,7 +11,6 @@ La innovación es el proceso de generar ideas y convertirlas en productos, servi
 ### Fracasos
 
 En la innovación, los fracasos son utilizados como oportunidades de aprendizaje. A través de los fracasos, se adquiere experiencia que nos permite desarrollar nuevas ideas y mejorar en futuros proyectos.
-
 
 ### Responsabilidad social y etica en innovacion
 
@@ -28,11 +25,10 @@ La responsabilidad social y ética se relacionan estrechamente con la innovació
 - **Inteligir:** implica comprender, analizar y evaluar información. 
 - **Pensar:** implica generar ideas, realizar conexiones y encontrar soluciones creativas.
 
-### Sentir y razon
+#### Sentir y razon
 
 Es la capacidad de la mente humana para establecer relaciones entre ideas o conceptos y obtener conclusiones o formar juicios.
 
 ### paradigma
 
-Un paradigma es en palabras simples una especie de costumbre con lo qu ese cree que es lo politica o socialmente correcto.
-
+Un paradigma es en palabras simples una especie de costumbre con lo que se cree que es lo politica o socialmente correcto.

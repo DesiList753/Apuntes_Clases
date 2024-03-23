@@ -27,6 +27,7 @@ Un pasivo normalmente es usado para generar activos (con deuda generamos un acti
 #### Ecuacion contable
 
 Patrimonio **=** Activo **-** Pasivo
+
 3. ¿Que es lo que es un **El balance de el estado de resultado**?
 
 Tanto el balance como el estado resultado son documentos contables, son miradas hacia el pasado que representan lo que se prodria decir sucedio en el año

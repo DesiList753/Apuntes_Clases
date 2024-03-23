@@ -1,3 +1,20 @@
+### Amenazas de seguridad
+
+- **Amenazas externas:**
+    - virus, gusanos y caballo de troya
+    - spyware y adware
+    - ataques de dia cero
+    - ataques de actores de amenazas
+    - ataques por denegacion de servicios
+    - intercepcion y robo de datos
+    - robo de identidad
+  
+- **Amenazas internas:**
+    - dispositivos pedidos o robados
+    - uso indebido accidental por parte ed los empleados
+    - empleados malintencionados
+
+
 ### Soluciones de seguridad (Cont)
 
 - **Sistemas de <span style="color:red">Firewall</span> dedicado:** Un sistema de firewall dedicado es una solución de seguridad que se utiliza para proteger una red de posibles amenazas externas. Actúa como una barrera entre la red interna y el tráfico no autorizado proveniente de Internet.
@@ -31,3 +48,4 @@ Estos elementos son fundamentales para establecer una comunicación efectiva y a
 La transmision se utilizan en redes IPv4, pero no son un aopcion para IPv6
 
 **Anycast:** Anycast es una técnica de enrutamiento en la que una dirección IP se asigna a múltiples dispositivos en diferentes ubicaciones geográficas. Cuando se envía un mensaje a una dirección IP anycast, el enrutador selecciona automáticamente el dispositivo más cercano o con la menor carga para entregar el mensaje. Esto permite una distribución eficiente del tráfico y una mayor disponibilidad de servicios en la red.
+
