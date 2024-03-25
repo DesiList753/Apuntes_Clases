@@ -32,21 +32,6 @@ Testeo y calidad
 | Boceto            |           |       |                       |
 
 
-### Evaluaciones
-
-- Certamen 1. Semana 8 (20%)
-- Certamen 2. Semana 17 (25%)
-- Proyecto evaluacion iteraciones. (45%)
-- Desarrollo de **Product BackLog** del proyecto (5%)
-- Sprint 0 (20%)
-- Sprint 1. (20%)
-### Entregables
-
-- Control 1 ()
-- Control 2 ()
-- Control 3 ()
-- Control 4 ()
--
 
 ### Bases
 
