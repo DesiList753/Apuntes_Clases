@@ -1,0 +1,36 @@
+Crisis:
+
+-Desarrollo de SIU
+
+Mitos de desarrollo de software:
+
+1. Agregar Personal nuevo en un proyecto atrasado
+
+2. Trabajar con las mejores Tecnologia asegura un buen resultado
+
+3. Los programadores solo han de programar. El siu solo existe cuando esta programado.
+
+4. El desarrollo es lineal y predecible.
+
+5. Si hay estandares escritos y normas, los productos serán de mayor calidad.
+
+Existe un balance entre Calidad, tiempo y presupuesto, visualizado como un triangulo.
+
+
+
+CICLO SCRUM:
+
+
+la vida de un cilco SCRUM
+
+Roles en un equipo:
+Product Owner
+Scrum Master
+Developers
+
+Pilares de un Sprint:
+1. Inspeccion (del proceso)
+2. Trasparencia (Todos saben lo que esta pasando)
+3. Adaptacion
+
+

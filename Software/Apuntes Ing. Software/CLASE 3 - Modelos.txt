@@ -1,0 +1,65 @@
+Tradicional y agilista    Metodología =>paradigma
+			  |		|
+			  v		v
+			modelo	     calidad
+					^
+L. Lineal			       / \
+  o secuencial			      /   \
+				tiempo-----presupuesto
+
+				 Proyectos exitosos
+
+----------------------------------
+Modelos descritivos del proceso: 
+----------------------------------
+conjunto de actividades o tareas y productos (trabajo, artefactos,etc...) que es necesario para desarrollar software de alta calidad.
+
+Proporcionan estabilidad, control y organización al desarrollo de software
+
+Los modelos de trabajo son marcos de trabajo que permiten organizar el flujo del proceso de desarrollo de un equipo. Estos modelos pueden ser lineales, incrementales o evolutivos, y aunque los detalles y la terminologia pueden variar, las actividades se mantienen consistentes en general.
+----------------------------------
+
+Modelo en Cascada:
+posee una estructura lineal la cual depende de su desarrollo de manera secuencial y solo puede ser desarrollada si cada segmento anterior esta finalizado.
+
+su funcion usada actualmente es para dejar definido los requisitos de manera explicita
+
+su estructura es:
+Definicion requerimientos->
+Analisis y diseño de software->
+Implementacion y Prueba de unidades->
+Integracion y Prueba de sistema->
+Operacion y mantenimiento.
+
+----------------------------------
+
+Modelo Incremental:
+Combina aplicando en forma iterativa, generando secuencias de manera escalonada. Cada secuencia de trabajo produce incrementos de software.
+Se priorizan los requisitos basicos de cada incremento.
+
+----------------------------------
+¿Qué es un incremento?
+-una funcionalidad de software completa en estado de despliegue
+-mejora de la finalidad propuesta del sotware
+
+¿Cuáles son las caracteristicas de un incremento?
+
+----------------------------------
+Modelo DRA (Desarrollo Rapido de Aplicaciones):
+
+proceso incremental para ciclos cortos, utilizado como un modelo de cascada de alta velocidad. Es util cuando no esta presente todo el personal al inicio del proyecto. Este requiere mas personal en los siguientes incrementos y permite manejar riesgos tecnicos.
+
+Debe estar bajo un soporte de framework, el cual proponga un sistema de desarrollo mas flexible.
+
+El despliegue es global.
+----------------------------------
+Modelo de contruccion de prototipos:
+
+Modelo el cual enfoca la comunicacion entre el cliente y el desarrollo el cual propone aumentar la creacion de prototipos y permite reutiizar los incrementos anteriores para mejorar el producto final sin perder la velocidad de produccion.
+
+----------------------------------
+Modelo en espiral:
+
+
+----------------------------------
+Modelo de desarrollo concurrente:
