@@ -63,3 +63,121 @@ Modelo en espiral:
 
 ----------------------------------
 Modelo de desarrollo concurrente:
+
+
+.................................................................
+|||||||||||||PDF 3 MODELOS AGILES|||||||||||||||||||||||||||||||
+.................................................................
+
+Modelos Agiles:
+-----------------------------
+¿Que es la Agilidad?
+
+La agilidad es una caracteristica la cual denomina la capacidad dinámica, con un contenido específico, ajustable al cambio de manera dinámica y orientada al crecimiento de un objeto o concepto.
+
+Se puede aplicar a cualquier modelo de desarrollo de software que sea capaz de permitir adaptación al equipo de desarrollo, coordinar tareas, planificación fluida, uso de los productos de trabajo esenciales, usar estrategias incrementales y evolutivas que permitan un rápido desarrollo de productos opertivos.
+
+Esta ligado a una filosofia de manifiesto agilista la cual esta compuesta por 12 principios.
+
+1.Nuestra mayor prioridad es satisfacer al cliente mediante la entrega temprana y continua de software con valor. (Satisfacer cliente)
+
+2.Aceptamos que los requisitos cambien, incluso en etapas tardías del desarrollo. Los procesos Ágiles aprovechan el cambio para proporcionar ventaja competitiva al cliente. (Aceptar cambios)
+
+3.Entregamos software funcional frecuentemente, entre dos semanas y dos meses, con preferencia al periodo de tiempo más corto posible. (Entrega software funcional)
+
+4.Los responsables de negocio y los desarrolladores trabajamos juntos de forma cotidiana durante todo el proyecto. (Trabajo en equipo de manera cotidiana)
+
+5.Los proyectos se desarrollan en torno a individuos motivados. Hay que darles el entorno y el apoyo que necesitan, y confiarles la ejecución del trabajo. (Desarrollo bajo motivacion)
+
+6.El método más eficiente y efectivo de comunicar información al equipo de desarrollo y entre sus miembros es la conversación cara a cara. (Conversacion cara a cara)
+
+7.El software funcionando es la medida principal de progreso. (Software funcionando)
+
+8.Los procesos Ágiles promueven el desarrollo sostenible. Los promotores, desarrolladores y usuarios debemos ser capaces de mantener un ritmo constante de forma indefinida. (Ritmo Constante)
+
+9.La atención continua a la excelencia técnica y al buen diseño mejora la Agilidad. (Atencion constante)
+
+10.La simplicidad, o el arte de maximizar la cantidad de trabajo no realizado, es esencial. (simplicidad o Maximizar cantidad de trabajo no realizado)
+
+11.Las mejores arquitecturas, requisitos y diseños emergen de equipos auto-organizados. (Equipos auto-organizados)
+
+12.A intervalos regulares el equipo reflexiona sobre cómo ser más efectivo para a continuación ajustar y perfeccionar su comportamiento en consecuencia. (
+
+------------------------------------------
+
+Metodo o proceso agil:
+
+
+------------------------------------------
+
+Metodo agil de proceso: Programacion extrema
+
+Se basa en retroalimentación continua entre cliente y equipo de desarrollo, comunicacion fluida de todos los participantes, simplicidad en soluciones implementadas y coraje para enfrentar cambios. Xp es la herramienta adecuada para proyectos con requisitos imprecisos y muy cambiantes, y donde existe un alto riesgo técnico.
+
+Objetivos:
+
+Establecer las mejores prácticas de Ingeniería de Software en los desarrollo de proyectos. 
+
+ Mejorar la productividad de los proyectos. 
+
+ Garantizar la Calidad del Software desarrollando, haciendo que este supere las expectativas del cliente.
+
+Valores:
+
+-Comunicacion: establecer aspectos del software por clientes y desarrolladores mediante comunicacion del equipo de software.
+
+-Simplicidad : diseñar solo lo escencial del software para agilizar su produccion con la arquitectura.
+
+-Retroalimentacion: modulos o pruebas presentadas al cliente del estado del producto. acompañada de documentacion.
+
+-Prueba Unitaria: Tactica de pruebas. Pruebas realizadas al ser añadida una funcionalidad.
+
+-Historias de usuario: Casos de uso con una documentacion de pruebas.
+
+
+Visualizacion:
+|-----------------------------------------------^
+v						|
+Prueba -> Planeacion -> Diseño -> Codificacion -|
+	-|
+	 v
+	 Lanzamiento
+
+-----------------------------------------
+
+Desarrollo adaptativo de software (DAS):
+
+proporciona un marco para el desarrollo iterativo de sistemas grandes y complejos. Destaca la colaboracion y organizacion propia del equipo; Y esta organizado por tres actividades de trabajo: especulacion, colaboracion y aprendizaje.
+
+Fases de desarrollo:
+
+1. Fase de especulación: inicio desarrollo proyecto, utiliza informacion como mision cliente, restricciones proyecto y requisitos basicos para definir conjunto de ciclos que seran necesarios para incrementos del software.
+
+2. Fase de colaboración: desarrollo de confianza, ayuda y conunto de actitudes que contribuyan trabajo en equipo.
+
+3. Fase de aprendizaje: mejorar entendimiento sobre tecnologia, procesos utilizados y proyecto. Aprendizaje individual permite al equipo mayor posibilidad éxito.
+
+-----------------------------------------
+
+Metodo de desarrollo de sistemas dinámicos (MDSD):
+
+• Involucrar al cliente es la clave para llevar un proyecto eficiente y efectivo.
+• El equipo del proyecto debe tener el poder para tomar decisiones que son importantes.
+• MDSD se centra en la entrega frecuente de productos.
+• El desarrollo es iterativo e incremental.
+• Todos los cambios durante el desarrollo son reversibles.
+• Las pruebas son realizadas durante todo el ciclo vital del proyecto.
+• La comunicación y cooperación entre todas las partes interesadas
+
+-----------------------------------------
+Desarrollo conducido por características (FDD-DCC):
+
+método de desarrollo de software ágil adecuado para proyectos de mayor escala, permitiendo que varios equipos trabajen en paralelo. Utiliza  características como unidad básica de trabajo e iteraciones muy cortas. Conocido por su sigla en inglés FDD –Feature Driven Development.
+
+Un proyecto de FDD comienza con la creación de un modelo de dominio, que se divide en características que se pueden implementar en menos de 2 semanas (generalmente de 1 a 3 días). Cada característica será luego planeada, diseñada y construida siguiendo un proceso iterativo e incremental. El progreso del proyecto se monitorea a través de una lista central de características codificada por colores, y el modelo de objeto se actualiza con cada iteración.
+
+-----------------------------------------
+¿Los modelos clasificados como tradicionales, pueden contener características agilistas?
+
+
+
