@@ -1,0 +1,33 @@
+Tecnicas Desarrollo de software
+----------------------------------
+Requisitos (Levantamiento): 
+-Evidenciar el problema
+-Evidenciar Requisitos Funcionales y No funcionales ( Mediante Casos de uso).
+
+Todo esto es dado en base a la vista del usuario al que se contruye el software.
+
+Se usaran mediante esto:
+-Casos de Uso (C.U)
+->Historias Usuario (H.U)
+|  -Boceto
+|
+|-----------------------------------
+|
+|  Analisis:
+->(H.U.D)
+
+-------------------------------
+Diseño:
+Diagramas de Clases (D.C)
+Diagramas de Diseño (D.D)
+Diagramas de Relaciones (D.R)
+
+-------------------------------
+Testing:
+Testing y calidad
+
+
+
+
+--------------------------------
+Despliegue
