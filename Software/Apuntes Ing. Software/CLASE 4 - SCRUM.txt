@@ -1,0 +1,100 @@
+Actividad inicio:
+
+Buscar en la guia Scrum 2020 la Definicion de los pilares de Scrum
+
+------------------------------
+
+Transparencia
+El proceso y el trabajo emergentes deben ser visibles para aquellos que realizan el trabajo, así como para los 
+que reciben el trabajo. Con Scrum, las decisiones importantes se basan en el estado percibido de sus tres 
+artefactos formales. Los artefactos que tienen poca transparencia pueden conducir a decisiones que 
+disminuyen el valor y aumentan el riesgo.
+La transparencia permite la inspección. La inspección sin transparencia genera engaños y desperdicios.
+
+------------------------------
+
+Inspección
+Los artefactos de Scrum y el progreso hacia objetivos acordados deben ser inspeccionados con 
+frecuencia y diligentemente para detectar varianzas o problemas potencialmente indeseables. Para 
+ayudar con la inspección, Scrum proporciona cadencia en forma de sus cinco eventos.
+La inspección permite la adaptación. La inspección sin adaptación se considera inútil. Los eventos de 
+Scrum están diseñados para provocar cambios.
+Adaptación
++++
+Todo artefacto Scrum o progreso hacia un objetivo acordado sera inspeccionado para detectar problemas que afecten al producto final. Mediante el Scrum,
+se facilita la inspeccion de cada evento. La inspeccion de lugar a adaptacion, y una inspeccion que no se adapta se considera innecesaria. El fin del
+Scrum es generar cambios.
+
+------------------------------
+
+Adaptación
+Si algún aspecto de un proceso se desvía fuera de los límites aceptables o si el producto resultante es 
+inaceptable, el proceso que se está aplicando o los materiales que se producen deben ajustarse. El 
+ajuste debe realizarse lo antes posible para minimizar la desviación adicional.
+
+La adaptación se vuelve más difícil cuando las personas involucradas no están empoderadas o no 
+poseen capacidad para autogestionarse. Se espera que un equipo de Scrum se adapte en el momento en 
+que aprenda algo nuevo por medio de la inspección.
++++
+La capacidad del producto al encontrarse fuera de lo deseado de volver a el objetivo utilizando otros metodos o medios. El ajuste es realizado lo antes posible
+para evitar un desvio mayor o hasta Irreversible. La adaptacion se ve perjudicada cuando los Usuarios o desarolladores no tienen la capacidad de autogestionarse,
+ ya que se espera que el equipo Scrum se adapte al encontrar un metodo nuevo por medio a la "Inspeccion".
+
+
+------------------------------
+
+Transparencia: Comunicación.
+
+Adaptación: Ajuste, Autogestión.
+
+Inspección: Artefactos Scrum objetivos, progreso diligencia.
+
+
+Principios Scrum:
+
+Desarrollo Iterativo, Control de proceso Empirico, Auto-Organizacion, Colaboracion, Priorizacion basa en valor, Time-boxing
+
+
+------------------------------
+
+Priorizacion basada en Valor:
+-El framework SCRUM se guia por la finalidad de ofrecer el maximo valor empresarial.
+
+------------------------------
+
+Time-boxing:
+Duracion de las reuniones con bloque de tiempo:
+-Sprint: 1 a 6 semanas
+-Daily: 15 minutos
+-Retrospectiva Sprint: 4 horas /sprint de un mes
+-Revision del sprint: 4 horas /sprint de un mes
+-Planing del sprint : 8 horas /sprint de un mes
+
+Tecnica barco de vela: isla de llegada(meta), vientos (acciones bien), rocas (Acciones mejorables),
+ anclas (Contratiempos o Acciones perjudiciales) y equipo.
+
+----------------------------
+Metodologia de Desarrollo Tradicionales
+Se conocen como "Metodologia pesadas", por su falta de flexibilidad, documentacion exhaustiva,
+especificaciones precisas de requisitos, disciplina rigurosa
+
+----------------------------
+
+Epica: Funcionalidad o Historia de usuario la cual se caracteriza por ser mas grande y debe ser descompuesta en historias de usuario pequeñas. Es mas abstracta como tal.
+
+------------------------------
+
+Actividad:
+
+Problema: Definiciencia en los medios de transporte público
+
+Solución: SW que permita las siguientes funcionalidades. (4 Epicas)
+
+Descripción: (SW)
+
+
+
+Problema: Aglomeracion en trasporte publico comun (Micros)
+
+
+Solucion A trabajar: Estandarizar compra de boletos en transporte (mediante software desarollado), el cual designe el asiento del pasajero y sea utilizado con una antelacion a la llegada de la micro (1 dia o horas antes).
