@@ -2,6 +2,8 @@
 
 ## Pilares de los equipos de SCRUM
 
+[]
+
 ### Transparencia
 
 En el centro del scrum se encuentra la transparencia, un principio fundamental que se centra en la comunicación abierta y sin obstáculos. La transparencia es la base de la confianza y la colaboración, ya que promueve un intercambio de información claro y sincero entre todas las partes interesadas del proyecto.

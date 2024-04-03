@@ -19,7 +19,15 @@ Un proyecto es un esfuerzo temporal que se lleva a cabo para crear un producto o
 
 ## Ciclo de vida de un proyecto
 
-El ciclo de vida de un proyecto consta de las siguientes etapas:
+- **Predictivo:** se planifica todo el proyecto al inicio y se sigue el plan sin cambios significativos.
+- **Iterativo:** se divide el proyecto en fases y se planifica cada fase por separado.
+- **Adaptativo:** se planifica el proyecto en fases y se va adaptando a medida que se avanza.
+- **Incremental:** el entregable se produce a través de una serie de iteraciones sucesivas. Cada iteración añade funcionalidad al producto dentro de un marco de tiempo predeterminado.
+- **Hibrido:** combinación de un ciclo de vida predictivo y uno adaptativo.
+
+### Casos de 
+
+### El ciclo de vida etapas:
 
 - **Inicio:** Esta etapa marca el comienzo del proyecto, donde se definen los objetivos, se identifican los interesados y se establece la viabilidad del proyecto.
 - **Planificación:** En esta etapa se elabora un plan detallado que incluye la definición de las tareas, los recursos necesarios, el cronograma y el presupuesto.

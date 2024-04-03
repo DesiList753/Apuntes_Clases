@@ -78,6 +78,8 @@ El conjunto de protocolos TCP/IP es uno de los más comúnmente utilizados en In
 
 - Capa de Acceso a la Red: Aquí se encuentran los protocolos que se encargan de la transmisión física de los datos, como Ethernet y Wi-Fi.
 
+la trama de datos se encapsula en la capa de enlace de datos, luego en la capa de red, luego en la capa de transporte y finalmente en la capa de aplicación.
+
 ## Estandares abiertos
 
 Los estandares abiertos fomentan:
