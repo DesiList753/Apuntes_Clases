@@ -1,0 +1,40 @@
+Problemas y Soluciones:
+
+Usar como ejemplo para la clase el pago de pasaje en locomocion.
+
+Problema: Mal trato que sufre el estudiante al pagar en la locomoción colectiva.
+
+Solución: una aplicación que permita el pago automático, para evitar el contacto con el chofer.
+
+Base para historia de usuario a utilizar: Como [ROL DE USUARIO] quiero [OBJETIVO] para poder [BENEFICIO]
+
+1) "Como usuario de la locomoción publica, quiero una aplicación con opciones variadas de pago que permita el pago de manera automática, para poder realizar pago sin interacción con el conductor."
+
+Lo que entendimos por esta épica es que el usuario necesita disponer mas de 1 método de pago, ya que puede haber problemas con una alternativa, y de esta manera se podría tener mas de una opción por si las otras falla. se plantea diseñar 3 de momento las cuales permita diseñar un prototipo y la creación del menú a utilizar en la app:
+
+Necesita:
+-Un método de inicio de sesión personalizado por Rut y contraseña, para así diversificar las cuentas y a su vez, hacerlas simples de almacenar
+-Un menu donde pueda seleccionar la opción de pagar, para así llevar a cabo el uso de la aplicación
+-Un menú donde pueda seleccionar el método de pago de la aplicación, el cual no requiera interacción con el chofer.
+-Diseñar por cada opción (Qr, NFC y código de 4 dígitos) la visualización de como se veria al ser utilizada.
+-Una imagen que verifique que el pago fue realizado con éxito.
+
+Tiempo estimado: 4 semanas.
+
+2)"Como estudiante, me gustaría tener medios para recargar el saldo, para así realizar el pago con la aplicación y evitar el contacto con el conductor."
+
+Lo que entendimos por esta épica es que el usuario quiere utilizar la app, pero no sabría como cargar saldo, es nuestro deber diseñar unos métodos los cuales sean fáciles y cómodos para este y permita el uso de la app, para que así no conlleve a tener que pagar presencial y a su vez, permitir el pago sin interactuar con el chofer.
+
+Necesita:
+-Un método de inicio de sesión personalizado por Rut y contraseña, para así diversificar las cuentas y a su vez, hacerlas simples de almacenar
+-Una sección el cual muestre el saldo actual en la cuenta.
+-Un menú donde pueda seleccionar la opción de cargar saldo y pagar, para así llevar a cabo el uso de la aplicación
+-Un menu donde seleccionar el método de cargar saldo de la aplicación
+-Una imagen que verifique que la recarga fue realizado con éxito.
+-Un menú que disponga un método de pago, el cual no requiera interacción con el chofer.
+-Diseñar una opción de pago como mínimo, para permitir la visualización de como se vería al ser utilizada.
+-Una imagen que verifique que el pago fue realizado con éxito.
+
+Tiempo estimado: 4 semanas.
+
+Prototipo realizado en clase: https://www.figma.com/proto/WTBR32dt92MyLRNUAkjP1D/boceto?type=design&node-id=209-3&t=c3bQ3B1YkhfU792F-0&scaling=scale-down&page-id=3%3A6&starting-point-node-id=209%3A3&show-proto-sidebar=1
