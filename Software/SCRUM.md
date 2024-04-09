@@ -90,8 +90,8 @@ Timeboxing es una estrategia de gestión del tiempo orientada a los objetivos qu
 
 ## Conceptos: Jerarquía
 
-- Epica: Funcionalidad o historia de usuario grande, que debe ser descompuesta en historias de usuario mas pequeñas.
-- Historias de Usuario: Funcionalidad o requisito que puede ser completo en un tiempo definido (horas o dias).
-- Tarea: pequeños incrementos de trabajo. cada historia de usuarioes descumpuesta en tareas.
+- **Epica:** Funcionalidad o historia de usuario grande, que debe ser descompuesta en historias de usuario mas pequeñas.
+- **Historias de Usuario:** Funcionalidad o requisito que puede ser completo en un tiempo definido (horas o dias).
+- **Tarea:** pequeños incrementos de trabajo. cada historia de usuarioes descumpuesta en tareas.
 
 
