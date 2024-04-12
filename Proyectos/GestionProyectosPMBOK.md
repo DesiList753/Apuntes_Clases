@@ -1,5 +1,6 @@
 ## PMBOK
-Es una referencia utilizada en la gestión de proyectos, promueve vocabulario comun y organizacion.
+
+Es una referencia o guia utilizada en la gestión de proyectos, promueve vocabulario comun y organizacion.
 
 ### Procesos de la dirección de proyectos
 - INICIO
